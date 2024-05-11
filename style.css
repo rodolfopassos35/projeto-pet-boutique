@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.secao-background{
+    width: 100%;
+    padding: 120px 80px;
+    background-image: url(img/banner-topo.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.container-topo{
+    max-width: 300px;
+    color: #3c184e;
+}
+.logo {
+    width: 30px;
+    margin-right: 5px;
+}
+.p1{
+    font-size: 35px;
+    margin-bottom: 5px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.p2{
+    font-size: 14px;
+    text-align:center;
+    margin: 0;
+}
+.logo ,.p1{
+    display: inline;
+}
+/* secao container banner*/
+.container-banner{
+    max-width: 1024px;
+    box-shadow: 0 8px 32px #1f26875e;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    background-color: #ffffffc4;
+}
+h1{
+    font-size: 60px;
+    color: #3c184e;
+    text-align:center;
+    font-weight:800;
+    margin-bottom: 40px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+.container-banner p{
+    background-color: #3c184e;
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+.container-banner a{
+    color: #fff;
+    width: 20px;
+}
+/*secao serviços*/
+.secao-servicos{
+    width: 100%;
+    padding:120px 80px;  
+}
+h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-top:0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 45px;
+}
+.secao-listas{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    color: #3c184e;
+}
+.secao-listas li{
+    font-size: 20px;
+    margin:0 0 20px 0;
+}
+span{
+    font-weight: 700;
+    font-style: italic;
+}
+.secao-fotos {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center; 
+}
+.secao-fotos img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+/*seção faixa*/
+.secao-faixa{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+.secao-faixa p{
+    color: #fff;
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    text-align: center;
+}
+.redes-sociais{
+    width: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+/*seção marcas*/
+.secao-marcas{
+    width: 100%;
+    padding: 120px 80px;
+}
+.container-marcas{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.container-marcas img{
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+/* seção onde estamos*/
+.secao-onde-estamos{
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+h4{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+.pMapa{
+    font-size: 20px;
+    text-align: center;
+    color: #3c184e;
+    margin: 0 0 45px 0;
+}
+.mapa{
+    width: 800px;
+    height:450px;
+}
+.secao-rodape{
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+.secao-rodape p,a{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 800;
+    font-style: oblique;
+}
+.linkedin{
+    width: 20px;
+    margin-left:10px;
+    text-align: center;
+}
